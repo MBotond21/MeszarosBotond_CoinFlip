@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fej vagy írás</string>
+    <string name="heads">Fej</string>
+    <string name="tails">Írás</string>
+</resources>
